@@ -4,9 +4,9 @@ parent: A.3.1
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 219
+  position: 220
   state: M
 - locus: HA1
-  position: 240
+  position: 241
   state: Q
 clade: V1A.3a.1

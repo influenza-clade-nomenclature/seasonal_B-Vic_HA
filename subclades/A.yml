@@ -4,15 +4,15 @@ parent: none
 representatives: []
 defining_mutations:
 - locus: nuc
-  position: 227
+  position: 228
   state: G
 - locus: nuc
-  position: 665
+  position: 666
   state: C
 - locus: nuc
-  position: 1361
+  position: 1362
   state: T
 - locus: nuc
-  position: 1842
+  position: 1843
   state: T
 clade: V1A

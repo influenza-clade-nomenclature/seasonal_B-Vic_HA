@@ -4,12 +4,12 @@ parent: A.3.1
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 143
-  state: L
-- locus: HA1
-  position: 126
+  position: 127
   state: T
 - locus: HA1
-  position: 202
+  position: 144
+  state: L
+- locus: HA1
+  position: 203
   state: R
 clade: V1A.3a.2

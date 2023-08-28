@@ -4,9 +4,9 @@ parent: none
 representatives: []
 defining_mutations:
 - locus: nuc
-  position: 1193
+  position: 1056
   state: G
 - locus: nuc
-  position: 1055
+  position: 1194
   state: G
 clade: V1B

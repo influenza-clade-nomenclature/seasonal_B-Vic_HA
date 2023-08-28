@@ -4,15 +4,15 @@ parent: A
 representatives: []
 defining_mutations:
 - locus: HA1
-  position: 162
-  state: '-'
-- locus: nuc
-  position: 483
-  state: G
-- locus: HA1
-  position: 135
+  position: 136
   state: E
 - locus: HA1
   position: 163
   state: '-'
+- locus: HA1
+  position: 164
+  state: '-'
+- locus: nuc
+  position: 484
+  state: G
 clade: V1A.3
