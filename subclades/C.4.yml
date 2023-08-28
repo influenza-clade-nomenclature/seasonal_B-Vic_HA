@@ -1,0 +1,12 @@
+name: C.4
+unaliased_name: A.3.1.2.4
+parent: C
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 197
+  state: G
+- locus: nuc
+  position: 47
+  state: C
+clade: none

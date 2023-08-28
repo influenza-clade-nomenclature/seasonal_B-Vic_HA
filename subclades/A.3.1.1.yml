@@ -1,0 +1,12 @@
+name: A.3.1.1
+unaliased_name: A.3.1.1
+parent: A.3.1
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 219
+  state: M
+- locus: HA1
+  position: 240
+  state: Q
+clade: V1A.3a.1

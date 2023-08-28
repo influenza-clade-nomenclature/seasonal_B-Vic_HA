@@ -1,0 +1,12 @@
+name: C.5.2
+unaliased_name: A.3.1.2.5.2
+parent: C.5
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 199
+  state: P
+- locus: nuc
+  position: 554
+  state: T
+clade: none

@@ -1,0 +1,18 @@
+name: A.3.1
+unaliased_name: A.3.1
+parent: A.3
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 183
+  state: E
+- locus: HA1
+  position: 196
+  state: D
+- locus: HA1
+  position: 278
+  state: K
+- locus: HA1
+  position: 149
+  state: K
+clade: V1A.3a

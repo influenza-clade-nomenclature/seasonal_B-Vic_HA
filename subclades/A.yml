@@ -1,0 +1,18 @@
+name: A
+unaliased_name: A
+parent: none
+representatives: []
+defining_mutations:
+- locus: nuc
+  position: 227
+  state: G
+- locus: nuc
+  position: 665
+  state: C
+- locus: nuc
+  position: 1361
+  state: T
+- locus: nuc
+  position: 1842
+  state: T
+clade: V1A

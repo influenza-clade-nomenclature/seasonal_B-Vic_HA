@@ -1,0 +1,15 @@
+name: C.2
+unaliased_name: A.3.1.2.2
+parent: C
+representatives: []
+defining_mutations:
+- locus: nuc
+  position: 738
+  state: G
+- locus: HA1
+  position: 220
+  state: A
+- locus: HA1
+  position: 181
+  state: A
+clade: none

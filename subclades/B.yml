@@ -1,0 +1,12 @@
+name: B
+unaliased_name: B
+parent: none
+representatives: []
+defining_mutations:
+- locus: nuc
+  position: 1193
+  state: G
+- locus: nuc
+  position: 1055
+  state: G
+clade: V1B
