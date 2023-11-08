@@ -97,6 +97,26 @@
  * defining mutations or substitutions: HA1:87A, HA1:183K, nuc:525G
  * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.3)
 
+## C.5.4
+ * parent: [C.5](#C5)
+ * defining mutations or substitutions: HA1:117I, HA1:128K, HA1:154T, HA1:326R
+ * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.4)
+
+## C.5.5
+ * parent: [C.5](#C5)
+ * defining mutations or substitutions: HA1:184K, HA1:80G, nuc:921A
+ * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.5)
+
+## C.5.6
+ * parent: [C.5](#C5)
+ * defining mutations or substitutions: HA1:129N, nuc:555T, nuc:435G
+ * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.6)
+
+## C.5.7
+ * parent: [C.5](#C5)
+ * defining mutations or substitutions: HA1:128G, HA1:183K, nuc:195C
+ * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.7)
+
 # Clade -- subclade correspondence
 |*Clade*|*Subclade*|*full subclade name*|
 |-------------|---------|----------------------|
