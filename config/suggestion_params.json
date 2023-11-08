@@ -1,5 +1,5 @@
 {
-    "tree_url": "https://nextstrain.org/charon/getDataset?prefix=flu/seasonal/vic/ha/6y",
+    "tree_url": "https://nextstrain.org/charon/getDataset?prefix=flu/seasonal/vic/ha/2y",
     "proteins": [
         "HA1",
         "HA2"
