@@ -1,0 +1,15 @@
+name: C.5.5
+unaliased_name: A.3.1.2.5.5
+parent: C.5
+representatives: []
+defining_mutations:
+- locus: HA1
+  position: 184
+  state: K
+- locus: HA1
+  position: 80
+  state: G
+- locus: nuc
+  position: 921
+  state: A
+clade: none
