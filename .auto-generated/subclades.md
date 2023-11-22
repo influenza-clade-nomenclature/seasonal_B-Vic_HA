@@ -64,7 +64,7 @@
 
 ## C.2
  * parent: [C](#C)
- * defining mutations or substitutions: HA1:182A, HA1:221A, nuc:739G
+ * defining mutations or substitutions: HA1:182A, HA1:197E, HA1:221A, nuc:739G
  * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.2)
 
 ## C.3
@@ -74,7 +74,7 @@
 
 ## C.4
  * parent: [C](#C)
- * defining mutations or substitutions: HA1:198G, nuc:48C
+ * defining mutations or substitutions: HA1:198G, nuc:48C, nuc:228A
  * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.4)
 
 ## C.5
