@@ -7,6 +7,9 @@ defining_mutations:
   position: 182
   state: A
 - locus: HA1
+  position: 197
+  state: E
+- locus: HA1
   position: 221
   state: A
 - locus: nuc

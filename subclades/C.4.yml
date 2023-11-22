@@ -9,4 +9,7 @@ defining_mutations:
 - locus: nuc
   position: 48
   state: C
+- locus: nuc
+  position: 228
+  state: A
 clade: none
