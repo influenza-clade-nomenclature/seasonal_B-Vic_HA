@@ -1,7 +1,11 @@
 name: A.1
 unaliased_name: A.1
 parent: A
-representatives: []
+representatives:
+- isolate: B/Colorado/06/2017
+  source: genbank
+  accession: CY236607
+  other_accession: EPI_ISL_264099
 defining_mutations:
 - locus: HA1
   position: 129

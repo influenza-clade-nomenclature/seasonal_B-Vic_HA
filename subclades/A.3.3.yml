@@ -1,7 +1,13 @@
 name: A.3.3
 unaliased_name: A.3.3
 parent: A.3
-representatives: []
+representatives:
+- isolate: B/Netherlands/10894/2022
+  source: gisaid
+  accession: EPI_ISL_14952381
+- isolate: B/Netherlands/11267/2022
+  source: gisaid
+  accession: EPI_ISL_13983276
 defining_mutations:
 - locus: HA1
   position: 75

@@ -1,7 +1,11 @@
 name: A.3.2
 unaliased_name: A.3.2
 parent: A.3
-representatives: []
+representatives:
+- isolate: B/Washington/02/2019
+  source: genbank
+  accession: OR576948
+  other_accession: EPI_ISL_362540
 defining_mutations:
 - locus: HA1
   position: 133

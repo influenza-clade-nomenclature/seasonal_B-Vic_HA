@@ -1,7 +1,10 @@
 name: C.1
 unaliased_name: A.3.1.2.1
 parent: C
-representatives: []
+representatives:
+- isolate: B/Shaanxi-Baota/1278/2022
+  source: gisaid
+  accession: EPI_ISL_14033359
 defining_mutations:
 - locus: HA1
   position: 122

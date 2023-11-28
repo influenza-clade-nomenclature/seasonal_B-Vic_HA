@@ -1,7 +1,10 @@
 name: C.5.5
 unaliased_name: A.3.1.2.5.5
 parent: C.5
-representatives: []
+representatives:
+- isolate: B/Lithuania/48627/2022
+  source: gisaid
+  accession: EPI_ISL_16714035
 defining_mutations:
 - locus: HA1
   position: 184

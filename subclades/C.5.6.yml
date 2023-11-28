@@ -1,7 +1,13 @@
 name: C.5.6
 unaliased_name: A.3.1.2.5.6
 parent: C.5
-representatives: []
+representatives:
+- isolate: B/Brisbane/145/2023
+  source: gisaid
+  accession: EPI_ISL_18242411
+- isolate: B/Iowa/29/2023
+  source: genbank
+  accession: OR629475
 defining_mutations:
 - locus: HA1
   position: 129

@@ -1,7 +1,10 @@
 name: C.5.7
 unaliased_name: A.3.1.2.5.7
 parent: C.5
-representatives: []
+representatives:
+- isolate: B/SouthAustralia/78/2023
+  source: gisaid
+  accession: EPI_ISL_18126969
 defining_mutations:
 - locus: HA1
   position: 128

@@ -1,7 +1,10 @@
 name: C.5.4
 unaliased_name: A.3.1.2.5.4
 parent: C.5
-representatives: []
+representatives:
+- isolate: B/Catalonia/3514402NS/2023
+  source: gisaid
+  accession: EPI_ISL_18109005EPI_ISL_18109028
 defining_mutations:
 - locus: HA1
   position: 117

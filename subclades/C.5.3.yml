@@ -1,7 +1,10 @@
 name: C.5.3
 unaliased_name: A.3.1.2.5.3
 parent: C.5
-representatives: []
+representatives:
+- isolate: B/Uruguay/1837/2023
+  source: gisaid
+  accession: EPI_ISL_18234677
 defining_mutations:
 - locus: HA1
   position: 87

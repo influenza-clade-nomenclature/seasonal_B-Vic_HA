@@ -1,7 +1,10 @@
 name: C.2
 unaliased_name: A.3.1.2.2
 parent: C
-representatives: []
+representatives:
+- isolate: B/Netherlands/10335/2023
+  source: gisaid
+  accession: EPI_ISL_18109005
 defining_mutations:
 - locus: HA1
   position: 182

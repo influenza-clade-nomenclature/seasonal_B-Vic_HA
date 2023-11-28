@@ -1,7 +1,13 @@
 name: C.4
 unaliased_name: A.3.1.2.4
 parent: C
-representatives: []
+representatives:
+- isolate: B/Sweden/8/2023
+  source: gisaid
+  accession: EPI_ISL_17360204
+- isolate: B/Mozambique/4834/2023
+  source: gisaid
+  accession: EPI_ISL_18092082
 defining_mutations:
 - locus: HA1
   position: 198
