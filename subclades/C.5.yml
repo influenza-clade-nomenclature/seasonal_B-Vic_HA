@@ -2,7 +2,7 @@ name: C.5
 unaliased_name: A.3.1.2.5
 parent: C
 representatives:
-- isolate: B/Connecticut/01/2021
+- isolate: B/Connecticut/1/2021
   source: genbank
   accession: OK484396
   other_accession: EPI_ISL_13912922

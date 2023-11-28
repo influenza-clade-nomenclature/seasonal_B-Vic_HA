@@ -2,7 +2,7 @@ name: C.5.2
 unaliased_name: A.3.1.2.5.2
 parent: C.5
 representatives:
-- isolate: B/Colorado/05/2022
+- isolate: B/Colorado/5/2022
   source: genbank
   accession: OQ661654
   other_accession: EPI_ISL_17832069

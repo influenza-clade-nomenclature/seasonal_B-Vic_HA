@@ -2,7 +2,7 @@ name: A.1
 unaliased_name: A.1
 parent: A
 representatives:
-- isolate: B/Colorado/06/2017
+- isolate: B/Colorado/6/2017
   source: genbank
   accession: CY236607
   other_accession: EPI_ISL_264099

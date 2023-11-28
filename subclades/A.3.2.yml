@@ -2,7 +2,7 @@ name: A.3.2
 unaliased_name: A.3.2
 parent: A.3
 representatives:
-- isolate: B/Washington/02/2019
+- isolate: B/Washington/2/2019
   source: genbank
   accession: OR576948
   other_accession: EPI_ISL_362540
