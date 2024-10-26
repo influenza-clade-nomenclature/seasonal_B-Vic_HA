@@ -57,10 +57,11 @@ python ../helper-scripts/generate_markdown_summary.py --input-dir subclades --li
 # generate the tsv file with clade-defining info that can be used to annotate clades in augur
 python ../helper-scripts/construct_tsv.py --input-dir subclades --output-tsv .auto-generated/subclades.tsv
 python ../helper-scripts/construct_tsv.py --input-dir clades --aux-input-dir subclades --flat-output --output-tsv .auto-generated/clades.tsv
-```
-To add the result to the repo, do:
-```
-git add .auto-generated/subclades.tsv .auto-generated/subclades.md .auto-generated/clades.tsv
+python ../helper-scripts/construct_tsv.py --input-dir subclades subclade_proposals --output-tsv .auto-generated/subclade_proposals.tsv
+
+ # To add the result to the repo, do:
+
+git add .auto-generated/subclades.tsv .auto-generated/subclade_proposals.tsv .auto-generated/subclades.md .auto-generated/clades.tsv
 git commit -m "update auto-generated files"
 ```
 

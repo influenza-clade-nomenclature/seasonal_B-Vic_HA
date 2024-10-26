@@ -9,7 +9,7 @@
  * parent: [A](#A)
  * defining mutations or substitutions: HA1:129G, HA1:162-, HA1:163-, HA1:180V, HA2:151K
  * clade: V1A.1
- * representative sequence: B/Colorado/06/2017 ([CY236607](https://www.ncbi.nlm.nih.gov/nuccore/CY236607), EPI_ISL_264099) [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?c=subclade&s=B/Colorado/06/2017)
+ * representative sequence: B/Colorado/6/2017 ([CY236607](https://www.ncbi.nlm.nih.gov/nuccore/CY236607), EPI_ISL_264099) [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?c=subclade&s=B/Colorado/6/2017)
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:A.1)
 
 ## A.2
@@ -39,7 +39,7 @@
 ## A.3.2
  * parent: [A.3](#A3)
  * defining mutations or substitutions: HA1:133R, nuc:153C
- * representative sequence: B/Washington/02/2019 ([OR576948](https://www.ncbi.nlm.nih.gov/nuccore/OR576948), EPI_ISL_362540) [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?c=subclade&s=B/Washington/02/2019)
+ * representative sequence: B/Washington/2/2019 ([OR576948](https://www.ncbi.nlm.nih.gov/nuccore/OR576948), EPI_ISL_362540) [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?c=subclade&s=B/Washington/2/2019)
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:A.3.2)
 
 ## A.3.3
@@ -93,7 +93,7 @@
  * parent: [C](#C)
  * defining mutations or substitutions: HA1:197E, nuc:351G
  * representative sequences:
-   - B/Connecticut/01/2021 ([OK484396](https://www.ncbi.nlm.nih.gov/nuccore/OK484396), EPI_ISL_13912922) [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?c=subclade&s=B/Connecticut/1/2021)
+   - B/Connecticut/1/2021 ([OK484396](https://www.ncbi.nlm.nih.gov/nuccore/OK484396), EPI_ISL_13912922) [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?c=subclade&s=B/Connecticut/1/2021)
    - B/Italy/14158/2023 (EPI_ISL_17467402) [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?c=subclade&s=B/Italy/14158/2023)
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5)
 
@@ -107,7 +107,7 @@
  * parent: [C.5](#C5)
  * defining mutations or substitutions: HA1:200P, nuc:555T
  * representative sequences:
-   - B/Colorado/05/2022 ([OQ661654](https://www.ncbi.nlm.nih.gov/nuccore/OQ661654), EPI_ISL_17832069) [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?c=subclade&s=B/Colorado/05/2022)
+   - B/Colorado/5/2022 ([OQ661654](https://www.ncbi.nlm.nih.gov/nuccore/OQ661654), EPI_ISL_17832069) [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?c=subclade&s=B/Colorado/5/2022)
    - B/Brazil/9753/2022 (EPI_ISL_16376430) [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?c=subclade&s=B/Brazil/9753/2022)
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.2)
 
