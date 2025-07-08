@@ -53,6 +53,11 @@ C.3	clade	C
 C.3	HA1	128	K
 C.3	HA1	154	E
 C.3	nuc	882	G
+C.3.1	clade	C.3	
+C.3.1	HA1	197	N
+C.3.1	HA1	208	S
+C.3.1	nuc	700	T
+C.3.1	nuc	1605	C
 C.4	clade	C	
 C.4	HA1	198	G
 C.4	nuc	48	C
