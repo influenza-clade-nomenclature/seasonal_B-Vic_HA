@@ -143,6 +143,12 @@
    - B/Iowa/29/2023 ([OR629475](https://www.ncbi.nlm.nih.gov/nuccore/OR629475)) [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?c=subclade&s=B/Iowa/29/2023)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.6)
 
+## C.5.6.1
+ * parent: [C.5.6](#C56)
+ * defining mutations or substitutions: HA1:199A, HA1:128D, HA1:37I
+ * representative sequence: B/Massachusetts/34/2025 (EPI4445622) [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?c=subclade&s=B/Massachusetts/34/2025)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.6.1)
+
 ## C.5.7
  * parent: [C.5](#C5)
  * defining mutations or substitutions: HA1:128G, HA1:183K, nuc:195C
