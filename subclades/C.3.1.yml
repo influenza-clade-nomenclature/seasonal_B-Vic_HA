@@ -1,0 +1,21 @@
+name: C.3.1
+unaliased_name: A.3.1.2.3.1
+parent: C.3
+representatives:
+- isolate: B/Washington/20/2025
+  source: gisaid
+  accession: EPI4474502
+defining_mutations:
+- locus: HA1
+  position: 197
+  state: N
+- locus: HA1
+  position: 208
+  state: S
+- locus: nuc
+  position: 700
+  state: T
+- locus: nuc
+  position: 1605
+  state: C
+clade: none

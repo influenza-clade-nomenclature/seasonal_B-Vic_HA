@@ -81,6 +81,12 @@
  * representative sequence: B/Moldova/2030521/2023 (EPI_ISL_18037429) [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?c=subclade&s=B/Moldova/2030521/2023)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.3)
 
+## C.3.1
+ * parent: [C.3](#C3)
+ * defining mutations or substitutions: HA1:197N, HA1:208S, nuc:700T, nuc:1605C
+ * representative sequence: B/Washington/20/2025 (EPI4474502) [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?c=subclade&s=B/Washington/20/2025)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.3.1)
+
 ## C.4
  * parent: [C](#C)
  * defining mutations or substitutions: HA1:198G, nuc:48C, nuc:228A
@@ -136,6 +142,12 @@
    - B/Brisbane/145/2023 (EPI_ISL_18242411) [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?c=subclade&s=B/Brisbane/145/2023)
    - B/Iowa/29/2023 ([OR629475](https://www.ncbi.nlm.nih.gov/nuccore/OR629475)) [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?c=subclade&s=B/Iowa/29/2023)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.6)
+
+## C.5.6.1
+ * parent: [C.5.6](#C56)
+ * defining mutations or substitutions: HA1:199A, HA1:128D, HA1:37I
+ * representative sequence: B/Massachusetts/34/2025 (EPI4445622) [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?c=subclade&s=B/Massachusetts/34/2025)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.5.6.1)
 
 ## C.5.7
  * parent: [C.5](#C5)

@@ -1,0 +1,18 @@
+name: C.5.6.1
+unaliased_name: A.3.1.2.5.6.1
+parent: C.5.6
+representatives:
+- isolate: B/Massachusetts/34/2025
+  source: gisaid
+  accession: EPI4445622
+defining_mutations:
+- locus: HA1
+  position: 199
+  state: A
+- locus: HA1
+  position: 128
+  state: D
+- locus: HA1
+  position: 37
+  state: I
+clade: none
