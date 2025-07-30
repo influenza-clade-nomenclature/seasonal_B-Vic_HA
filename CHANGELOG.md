@@ -1,3 +1,8 @@
+# 2025-07-30
+
+ - add subclade [C.3.1](https://github.com/influenza-clade-nomenclature/seasonal_B-Vic_HA/blob/5e220b88012ba911ea23fcb2615b2e3dbc62810c/subclades/C.3.1.yml)
+ - add subclade [C.5.6.1](https://github.com/influenza-clade-nomenclature/seasonal_B-Vic_HA/blob/5e220b88012ba911ea23fcb2615b2e3dbc62810c/subclades/C.5.6.1.yml)
+
 # 2023-11-09
 
  - update definition of C.2 and C.4 to include positions in the definition that were previously used to define parent clades, which meant that these clades didn't get assigned properly.
