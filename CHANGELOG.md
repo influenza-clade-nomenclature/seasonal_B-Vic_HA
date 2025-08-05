@@ -1,3 +1,7 @@
+# 2025-08-05
+
+ - add subclade [C.3.2](https://github.com/influenza-clade-nomenclature/seasonal_B-Vic_HA/blob/3bc8c7bc52de6d7dc32c1ac2e11a1d6187dde7d5/subclades/C.3.2.yml)
+
 # 2025-07-30
 
  - add subclade [C.3.1](https://github.com/influenza-clade-nomenclature/seasonal_B-Vic_HA/blob/5e220b88012ba911ea23fcb2615b2e3dbc62810c/subclades/C.3.1.yml)

@@ -58,6 +58,10 @@ C.3.1	HA1	197	N
 C.3.1	HA1	208	S
 C.3.1	nuc	700	T
 C.3.1	nuc	1605	C
+C.3.2	clade	C.3	
+C.3.2	HA1	208	P
+C.3.2	HA1	197	N
+C.3.2	HA1	179	H
 C.4	clade	C	
 C.4	HA1	198	G
 C.4	nuc	48	C

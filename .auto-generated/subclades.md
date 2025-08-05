@@ -87,6 +87,12 @@
  * representative sequence: B/Washington/20/2025 (EPI4474502) [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?c=subclade&s=B/Washington/20/2025)
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.3.1)
 
+## C.3.2
+ * parent: [C.3](#C3)
+ * defining mutations or substitutions: HA1:208P, HA1:197N, HA1:179H
+ * representative sequence: A/SaoPaulo/0068-IBTEC/2024 (EPI3429613) [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?c=subclade&s=A/SaoPaulo/0068-IBTEC/2024)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:C.3.2)
+
 ## C.4
  * parent: [C](#C)
  * defining mutations or substitutions: HA1:198G, nuc:48C, nuc:228A

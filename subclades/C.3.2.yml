@@ -1,0 +1,18 @@
+name: C.3.2
+unaliased_name: A.3.1.2.3.2
+parent: C.3
+representatives:
+- isolate: A/SaoPaulo/0068-IBTEC/2024
+  source: gisaid
+  accession: EPI3429613
+defining_mutations:
+- locus: HA1
+  position: 208
+  state: P
+- locus: HA1
+  position: 197
+  state: N
+- locus: HA1
+  position: 179
+  state: H
+clade: none
