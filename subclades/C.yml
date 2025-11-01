@@ -1,6 +1,7 @@
 name: C
 unaliased_name: A.3.1.2
 parent: A.3.1
+alias_of: A.3.1.2
 representatives:
 - isolate: B/Austria/1359417/2021
   source: gisaid
