@@ -57,6 +57,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/ha/6y?branchLabel=Subclade&c=subclade&label=Subclade:B)
 
 ## C
+ * alias of: A.3.1.2
  * parent: [A.3.1](#A31)
  * defining mutations or substitutions: HA1:127T, HA1:144L, HA1:203R
  * clade: V1A.3a.2

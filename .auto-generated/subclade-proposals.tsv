@@ -53,6 +53,15 @@ C.3	clade	C
 C.3	HA1	128	K
 C.3	HA1	154	E
 C.3	nuc	882	G
+C.3.1	clade	C.3	
+C.3.1	HA1	197	N
+C.3.1	HA1	208	S
+C.3.1	nuc	700	T
+C.3.1	nuc	1605	C
+C.3.2	clade	C.3	
+C.3.2	HA1	208	P
+C.3.2	HA1	197	N
+C.3.2	HA1	179	H
 C.4	clade	C	
 C.4	HA1	198	G
 C.4	nuc	48	C
@@ -83,6 +92,10 @@ C.5.6	clade	C.5
 C.5.6	HA1	129	N
 C.5.6	nuc	555	T
 C.5.6	nuc	435	G
+C.5.6.1	clade	C.5.6	
+C.5.6.1	HA1	199	A
+C.5.6.1	HA1	128	D
+C.5.6.1	HA1	37	I
 C.5.7	clade	C.5	
 C.5.7	HA1	128	G
 C.5.7	HA1	183	K
