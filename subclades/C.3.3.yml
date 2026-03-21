@@ -1,0 +1,21 @@
+name: C.3.3
+unaliased_name: A.3.1.2.3.3
+parent: C.3
+representatives:
+- isolate: B/Tokyo/EIS14-680/2026
+  source: gisaid
+  accession: EPI5235151
+- isolate: B/Niigata/583/2025
+  source: gisaid
+  accession: EPI4726018
+defining_mutations:
+- locus: HA1
+  position: 255
+  state: P
+- locus: HA1
+  position: 197
+  state: N
+- locus: HA1
+  position: 267
+  state: V
+clade: none
