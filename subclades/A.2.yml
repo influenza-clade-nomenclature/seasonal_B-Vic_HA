@@ -16,3 +16,43 @@ defining_mutations:
   position: 209
   state: N
 clade: V1A.2
+founder:
+  method: ancestral-inference
+  provenance: "nextstrain/seasonal-flu@0cbe89ce:nextclade/config/vic/ha/KX058884/founder_sequences.fasta"
+  mutations:
+  - {position: 159, state: 'C'}
+  - {position: 270, state: 'T'}
+  - {position: 297, state: 'A'}
+  - {position: 312, state: 'T'}
+  - {position: 318, state: 'G'}
+  - {position: 375, state: 'T'}
+  - {position: 378, state: 'T'}
+  - {position: 427, state: 'G'}
+  - {position: 441, state: 'T'}
+  - {position: 444, state: 'C'}
+  - {position: 463, state: 'G'}
+  - {position: 513, state: 'T'}
+  - {position: 534, state: 'C'}
+  - {position: 562, state: '-'}
+  - {position: 563, state: '-'}
+  - {position: 564, state: '-'}
+  - {position: 565, state: '-'}
+  - {position: 566, state: '-'}
+  - {position: 567, state: '-'}
+  - {position: 568, state: '-'}
+  - {position: 569, state: '-'}
+  - {position: 570, state: '-'}
+  - {position: 617, state: 'C'}
+  - {position: 673, state: 'A'}
+  - {position: 705, state: 'T'}
+  - {position: 735, state: 'G'}
+  - {position: 810, state: 'C'}
+  - {position: 846, state: 'A'}
+  - {position: 873, state: 'A'}
+  - {position: 969, state: 'T'}
+  - {position: 1014, state: 'A'}
+  - {position: 1152, state: 'G'}
+  - {position: 1227, state: 'T'}
+  - {position: 1782, state: 'T'}
+  - {position: 1794, state: 'A'}
+  - {position: 1835, state: 'G'}
