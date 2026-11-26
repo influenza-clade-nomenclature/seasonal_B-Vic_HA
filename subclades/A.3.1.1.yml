@@ -10,3 +10,10 @@ defining_mutations:
   position: 241
   state: Q
 clade: V1A.3a.1
+founder:
+  method: ancestral-inference
+  provenance: "nextstrain/seasonal-flu@0cbe89ce:nextclade/config/vic/ha/KX058884/founder_sequences.fasta"
+  mutations:
+  - {position: 432, state: 'A'}
+  - {position: 736, state: 'A'}
+  - {position: 800, state: 'A'}

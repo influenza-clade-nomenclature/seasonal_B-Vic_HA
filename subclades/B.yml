@@ -10,3 +10,20 @@ defining_mutations:
   position: 1194
   state: G
 clade: V1B
+founder:
+  method: ancestral-inference
+  provenance: "nextstrain/seasonal-flu@0cbe89ce:nextclade/config/vic/ha/KX058884/founder_sequences.fasta"
+  mutations:
+  - {position: 228, state: 'A'}
+  - {position: 251, state: 'C'}
+  - {position: 432, state: 'A'}
+  - {position: 441, state: 'T'}
+  - {position: 514, state: 'G'}
+  - {position: 673, state: 'A'}
+  - {position: 873, state: 'A'}
+  - {position: 1056, state: 'G'}
+  - {position: 1194, state: 'G'}
+  - {position: 1362, state: 'C'}
+  - {position: 1677, state: 'C'}
+  - {position: 1835, state: 'G'}
+  - {position: 1843, state: 'C'}

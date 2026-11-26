@@ -16,3 +16,7 @@ defining_mutations:
   position: 1843
   state: T
 clade: V1A
+founder:
+  method: ancestral-inference
+  provenance: "nextstrain/seasonal-flu@0cbe89ce:nextclade/config/vic/ha/KX058884/founder_sequences.fasta"
+  mutations: []
